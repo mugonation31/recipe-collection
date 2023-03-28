@@ -67,7 +67,7 @@ export default function Home() {
             />
           ))}
         </Recipes>
-        <Footer name="Recipe App" year="2023" />
+        <Footer name="Recipe App" and="&copy;" year="2023" />
       </Container>
     </Body>
   );
